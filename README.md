@@ -15,10 +15,10 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- Lenguajes: **C++**, **Python**, **Java**, **JavaScript**  
-- Bases de datos: **MySQL**, **SQLite**  
+- Lenguajes: **C++**, **Matlab**, **PHP**
+- Bases de datos: **MySQL**
 - Control de versiones: **Git / GitHub**  
-- Otros: HTML, CSS, manejo básico de redes y hardware
+- Otros: HTML, CSS
 
 ---
 
@@ -36,5 +36,3 @@
 > *(Isaías 41:10)*
 
 ---
-
-### 🚀 *"Aprendiendo, creando y compartiendo código cada día."*
