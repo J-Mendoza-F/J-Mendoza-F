@@ -8,7 +8,7 @@
 ## 💡 Sobre mí
 
 💻 Apasionado por el **desarrollo de software**, la **programación orientada a objetos** y la **creación de soluciones tecnológicas** que mejoren la vida de las personas.  
-📘 Actualmente curso el **IV ciclo** de la carrera.  
+📘 Actualmente curso el **V ciclo** de la carrera.  
 🌱 En constante aprendizaje de nuevas tecnologías y buenas prácticas en ingeniería de software.  
 
 ---
